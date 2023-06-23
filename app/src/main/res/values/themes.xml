@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FakeCaller" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">#4620EE</item>
+        <item name="colorSecondary">#289A14</item>
+        <item name="colorAccent">#8C3333</item>
+        <item name="statusBarBackground">@color/white</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/bottom_control_bg</item>
+    </style>
+
+
+</resources>

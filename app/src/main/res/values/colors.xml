@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="accept_btn">#0DC110</color>
+    <color name="reject_btn">#DC0707</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_black">#121010</color>
+    <color name="bottom_control_bg">#2b2b2b</color>
+</resources>

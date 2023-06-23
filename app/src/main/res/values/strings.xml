@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WhatsFaker</string>
+    <style name="empty_text"> </style>
+</resources>
