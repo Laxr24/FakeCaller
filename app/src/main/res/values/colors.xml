@@ -7,4 +7,6 @@
     <color name="text_white">#FFFFFF</color>
     <color name="text_black">#121010</color>
     <color name="bottom_control_bg">#2b2b2b</color>
+    <color name="in_call_btn_bg_color">#595959</color>
+    <color name="transparent">#00595959</color>
 </resources>
